@@ -4,7 +4,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’ve run my own ed-tech start up in my early days GyanCentral (GC),  scaled the tech stacks at 3 Unicorns <a href="https://www.zomato.com">@zomato</a>, <a href="https://www.traveloka.com">@traveloka</a>,<a href="https://mamaearth.in">@mamaearth</a> and currently scaling the next one in the making ;)</li>
+  <li>🔭 I’ve run my own ed-tech start up in my early days GyanCentral (GC),  scaled the tech stacks at 3 Unicorns <a href="https://www.zomato.com">@zomato</a>, <a href="https://www.traveloka.com">@traveloka</a>, <a href="https://mamaearth.in">@mamaearth</a> and currently scaling the next one in the making ;)</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ikevinsolomon">Github</a>.</li>
 <li>📝 I sometimes write articles on <a href="https://kevinsolomon.com">my blog</a>.</li>
